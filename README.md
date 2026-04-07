@@ -16,9 +16,11 @@
 ## 💻 Exemplo de Saída
 
 ========================================
+
    RESULTADO DA PESQUISA
  - Quantidade de respostas 'EXCELENTE': 35
  - Quantidade de respostas 'RUIM': 9
+
 ========================================
 
 
