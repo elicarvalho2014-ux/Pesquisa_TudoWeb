@@ -27,4 +27,3 @@
 ## 🛠️ Tecnologias
 - Linguagem: Python 3
 - Documentação: FOR, WHILE TRUE / BREAK, TRY / EXCEPT
-- Badges dinâmicos: Shields.io
